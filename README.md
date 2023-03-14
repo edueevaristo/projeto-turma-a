@@ -1,6 +1,4 @@
 
-# Nome:
-##Eduardo Evaristo Gomes da Silva
+# Eduardo Evaristo Gomes da Silva
 
 ---
-
