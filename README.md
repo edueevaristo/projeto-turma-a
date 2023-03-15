@@ -41,4 +41,9 @@ E-mail: teste@unimar.com.br
 - Encanador (4 meses)
 - Desentupidor de fossa (4 meses)
 - Agiota (atualmente)
--  massagiststa de idosas
+- massagiststa de idosas
+- Acionista do Coco Bambu
+- Empilhador de caixas na CAIXA ECONOMICA FEDERAL
+- Boneco de posto
+- Açogueiro
+
