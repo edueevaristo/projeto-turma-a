@@ -49,3 +49,4 @@ E-mail: teste@unimar.com.br
 - Locomoção na velocidade da luz
 - Locomoção a gás
 - Locomoção com viajante do espaço (4 anos luz)
+- Piloto de avião cargueiro e boeing com apenas uma asa
