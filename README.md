@@ -50,3 +50,4 @@ E-mail: teste@unimar.com.br
 - Locomoção a gás
 - Locomoção com viajante do espaço (4 anos luz)
 - Piloto de avião cargueiro e boeing com apenas uma asa
+- Piloto de Boieng 277 (4 anos de experiência)
