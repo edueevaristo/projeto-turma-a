@@ -46,4 +46,5 @@ E-mail: teste@unimar.com.br
 - Empilhador de caixas na CAIXA ECONOMICA FEDERAL
 - Boneco de posto
 - Açogueiro
+- Locomoção na velocidade da luz
 
